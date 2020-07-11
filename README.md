@@ -1,4 +1,4 @@
-### Hi there! 👋  
+<h3 align="center">Hi there! 👋</h3>  
 
 <p align="center">I am Tom from Germany and I like to code and play games in my free time!</p>   
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 <p align="center">Discord: 3urobeat#0975</p>  
 
-## 🖥️ What do I use?  
+### 🖥️ What do I use?  
 
 Ryzen 5 2600 (OC), Zotac RTX 2060 (OC) with Windows 10 - `Main rig`  
 Thinkpad T430 with Linux Ubuntu and Kali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `For everything on the go`  
