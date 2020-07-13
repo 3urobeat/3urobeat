@@ -14,4 +14,4 @@
 </p>
   
 ---
-⬇️ __Check out my pinned repositories below!__ ⬇️
+<p align="center">⬇️ Check out my pinned repositories below! ⬇️</p>
