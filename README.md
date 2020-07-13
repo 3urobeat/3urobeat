@@ -9,7 +9,9 @@
 
 <p align="center">Discord: 3urobeat#0975</p>  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=herreurobeat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
+<p align="center">
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=herreurobeat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
+</p>
   
 ---
 ⬇️ __Check out my pinned repositories below!__ ⬇️
