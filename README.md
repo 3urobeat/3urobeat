@@ -11,7 +11,7 @@
 [![Donate](https://img.shields.io/badge/PayPal-blue)](https://paypal.me/3urobeat)
 
 <p align="center">
-  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=herreurobeat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img width="445" height="175" src="https://github-readme-stats.3urobeat.com/?username=herreurobeat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </p>
   
 ---
