@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/3urobeat) °
-![Discord](https://img.shields.io/badge/@3urobeat-blueviolet) °
-[![My Setup](https://img.shields.io/badge/My%20Setup-success)](https://gist.github.com/3urobeat/d8bf8c3e538b78db31cbf0f16a18ccba) °
-[![My Projects](https://img.shields.io/badge/%20My%20Projects%20-blueviolet)](https://github.com/users/3urobeat/projects/4) °
-[![Donate](https://img.shields.io/badge/PayPal-blue)](https://paypal.me/3urobeat)
+[![Steam](https://img.shields.io/badge/Steam-pink)](https://steamcommunity.com/id/3urobeat) °
+[![@3urobeat](https://img.shields.io/badge/@3urobeat-lightblue)](https://discord.com) °
+[![My Setup](https://img.shields.io/badge/My%20Setup-lightgreen)](https://gist.github.com/3urobeat/d8bf8c3e538b78db31cbf0f16a18ccba) °
+[![My Projects](https://img.shields.io/badge/%20My%20Projects%20-lightblue)](https://github.com/users/3urobeat/projects/4) °
+[![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/3urobeat)
 
 </div>
 
