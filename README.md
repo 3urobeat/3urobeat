@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img width="445" height="175" src="https://github-readme-stats.3urobeat.com/?username=3urobeat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img width="445" height="175" src="https://github-readme-stats.3urobeat.com/api?username=3urobeat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </p>
   
 ---
